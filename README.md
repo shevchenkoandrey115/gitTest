@@ -1,0 +1,2 @@
+# gitTest
+studying Git
